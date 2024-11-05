@@ -14,7 +14,7 @@ namespace JsonDemo1_1763
         /// <summary>
         /// 公告區域
         /// </summary>
-        public string Type { get; set; } = "公告區域";
+        //public string Type { get; set; } = "公告區域";
         /// <summary>
         /// 公告類別
         /// </summary>

@@ -11,7 +11,7 @@ namespace JsonDemo1_1763
     /// </summary>
     public class CheckIn
     {
-        public string Type { get; set; } = "登入資訊";
+        //public string Type { get; set; } = "登入資訊";
         /// <summary>
         /// 本日登入
         /// </summary>

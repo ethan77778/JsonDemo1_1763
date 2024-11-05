@@ -17,7 +17,7 @@ namespace JsonDemo1_1763
         /// <summary>
         /// 特休資訊
         /// </summary>
-        public string Type { get; set; } = "特休資訊";
+        //public string Type { get; set; } = "特休資訊";
         /// <summary>
         /// 同仁姓名
         /// </summary>

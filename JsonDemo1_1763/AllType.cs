@@ -11,14 +11,14 @@ namespace JsonDemo1_1763
         /// <summary>
         /// 所有公告類別
         /// </summary>
-        //public List<Announcement> Announcements { get; set; }
+        public List<Announcement> Announcements { get; set; } 
         /// <summary>
         /// 特休資訊
         /// </summary>
-        //public Vacation VacationInfo { get; set; }
+        public Vacation VacationInfo { get; set; }
         /// <summary>
         /// 登入資訊
         /// </summary>
-        //public CheckIn CheckInfo { get; set; }
+        public CheckIn CheckInfo { get; set; }
     }
 }
