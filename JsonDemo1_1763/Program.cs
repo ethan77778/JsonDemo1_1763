@@ -60,7 +60,7 @@ namespace JsonDemo1_1763
                 NoSelect = 12,
                 IsSelect = 0,
                 TakeRest = 0,
-                Remaining = "100"
+                Remaining="100"
             };
             string JsonVacationInfo = JsonConvert.SerializeObject(VacationInformation, Formatting.Indented);
             Console.WriteLine(JsonVacationInfo);
