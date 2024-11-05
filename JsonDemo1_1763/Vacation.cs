@@ -36,14 +36,12 @@ namespace JsonDemo1_1763
         /// 已休
         /// </summary>
         public int TakeRest { get; set; }
-        /// <summary>
-        /// 如果某個屬性標記為 [JsonIgnore]，它也不會出現在 JSON 中，儘管它是 public 的。
-        /// </summary>
-        [JsonIgnore]
+
         /// <summary>
         /// 剩餘
-        /// </summary>      
-      public int Remaining { get; set; }
+        /// </summary>
+        [JsonIgnore]
+        public  string Remaining { get; set; }
         /// <summary>
         /// 剩餘百分比
         /// </summary>

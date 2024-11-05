@@ -11,6 +11,9 @@ namespace JsonDemo1_1763
     /// </summary>
     public class Announcement
     {
+        /// <summary>
+        /// 公告區域
+        /// </summary>
         public string Type { get; set; } = "公告區域";
         /// <summary>
         /// 公告類別
